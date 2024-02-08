@@ -1,4 +1,4 @@
-## Tasks management system
+## Tasks management system on Laravel 10. Coding challenge (60mins)
 
 * Create task (info to save: task name, priority, timestamps)
 * Edit task
